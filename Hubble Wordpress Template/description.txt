@@ -1,0 +1,45 @@
+HubbleWP is a clean responsive business and portfolio Wordpress template built with Bootstrap. This Wordpress theme was built for professional businesses and developers to have a clean slate to work from. Simply add your own content and you're ready to roll.
+
+We aimed to make installing this theme easy for all users by including fully featured documentation.
+
+We've added a custom option panel so you can update your site easily and with no hassle.
+
+In the Wordpress version of the HubbleWP template we have added some cool new features such as an upgraded CSS3 pricing table page and a portfolio page type. You can have as many portfolio pieces as you'd like using custom post types.
+
+Using CSS3 we gave this template a subtle fading header and some awesome zoom effects on the portfolio and pricing pages to WOW your users.
+
+We have built in a contact page in HubbleWP so you won't have to install any plugins.
+
+Code
+Wordpress 3.x
+Portfolio Custom Posts
+Custom Post Types
+Built in Contact Form
+Options Panel
+Compatible with Bootstrap 2.0.x
+Uses Bootstrap 2.0.1
+Includes jQuery 1.7.1
+CSS3 transitions and transforms
+
+Browsers
+
+Firefox 4+
+Latest Chrome
+Latest Safari
+Internet Explorer 7+
+Opera 11
+
+Assets
+
+Fonts:
+
+Google Web font - PT Sans
+http://www.google.com/webfonts#UsePlace:use/Collection:PT+Sans
+
+Creative commons photos by:
+http://www.flickr.com/photos/tufqi/
+http://www.flickr.com/photos/tufqi/2560939027
+http://www.flickr.com/photos/tufqi/2560938069
+http://www.flickr.com/photos/tufqi/2560918653
+
+These photos are free for commercial use but are not included in the template files. They are for display of the template only. 
